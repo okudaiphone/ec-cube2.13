@@ -28,7 +28,7 @@
     <div id="login-form" class="clearfix">
         
         <div id="input-form">
-        <h1>Staff Only</h1>
+        <h1>Staff Only<span>関係者以外立ち入り禁止</span></h1>
             <form name="form1" id="form1" method="post" action="?">
                 <input type="hidden" name="<!--{$smarty.const.TRANSACTION_ID_NAME}-->" value="<!--{$transactionid}-->" />
                 <input type="hidden" name="mode" value="login" />
