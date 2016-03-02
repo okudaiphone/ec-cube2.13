@@ -24,7 +24,7 @@
 <!--komento-->
 <div id="home">
 
-    <!--{* お知らせここから *}-->
+    <!--{* お知らせここから 本当は不要 *}-->
     <div id="home-info">
         <!--{foreach item=info from=$arrInfo}-->
             <dl class="home-info-item">
